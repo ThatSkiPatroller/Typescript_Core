@@ -1,0 +1,32 @@
+Type: Easy way to refer to the different properties +
+functions that a value has
+
+Primitive Types:
+    - Number
+    - String
+    - Boolean
+    - Symbol
+    - Void
+    - Null
+    - Undefined
+
+Object Types:
+    - Functions
+    - Classes
+    - Arrays
+    - Objects
+Types we create or any other types built
+into the language itself
+
+Why two categories?
+    - We can trick typescript compiler with object types,
+      cannot do it with primitive types
+
+Why do we care?
+    - Types are used by the Typescript Compiler to 
+      analyze our code for errors
+    - Types allow other engineers to understand what
+      values are flowing around our codebase
+
+
+

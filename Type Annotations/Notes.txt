@@ -1,0 +1,11 @@
+Type annotations - Code we add to tell Typescript what 
+type of value a variable will refer to
+
+Type inference - Typescript tries to figure out what 
+type of value a variable refers to
+
+any type:
+    - A type, just as 'string' or 'boolean' are
+    - Means TS has no idea what this is - can't check
+      for correct property references
+    - Avoid variables with 'any' at all costs
