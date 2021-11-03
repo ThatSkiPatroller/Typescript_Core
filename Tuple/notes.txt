@@ -1,0 +1,9 @@
+Tuple --> Array like structure where each element represents some
+          property of a record .. usually contains multiple properties
+          to describe one single thing
+          Will usually mix and match many types of data
+
+Going to use objects more than tuples as tuples can be ambiguous at times
+
+
+
