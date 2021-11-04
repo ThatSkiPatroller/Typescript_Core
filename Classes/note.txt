@@ -1,0 +1,13 @@
+classes --> Blueprint to create an object with some fields (values) and 
+            methods (functions) to represent a 'thing'
+
+First - define a set of fields (values) and methods (functions) to represent
+        a 'thing'
+Second - define a set of fields (values) and methods (functions) to represent
+         a 'thing'
+
+Instance Method Modifiers:
+    - Public: This method can be called any where, any time
+    - Private: This method can only be called by other methods in this classes
+    - Protected: This method can be called by other methods in this class, or by
+                 other methods in child classes
